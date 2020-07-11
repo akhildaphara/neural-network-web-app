@@ -6,7 +6,7 @@
 # In[ ]:
 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 import tensorflow as tf
 import numpy as np
