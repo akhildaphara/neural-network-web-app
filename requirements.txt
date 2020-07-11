@@ -1,11 +1,5 @@
-pipdeptree==1.0.0
-  - pip [required: >=6.0.0, installed: 20.1.1]
-pipreqs==0.4.10
-  - docopt [required: Any, installed: 0.6.2]
-  - yarg [required: Any, installed: 0.1.9]
-    - requests [required: Any, installed: 2.24.0]
-      - certifi [required: >=2017.4.17, installed: 2020.6.20]
-      - chardet [required: >=3.0.2,<4, installed: 3.0.4]
-      - idna [required: >=2.5,<3, installed: 2.10]
-      - urllib3 [required: >=1.21.1,<1.26,!=1.25.1,!=1.25.0, installed: 1.25.9]
-setuptools==41.2.0
+requests==2.24.0
+Flask==1.1.2
+numpy==1.19.0
+streamlit==0.62.1
+tensorflow==2.2.0
